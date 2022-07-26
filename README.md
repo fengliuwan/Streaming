@@ -1,4 +1,4 @@
-# Streaming-
+# Streaming+
 Twitch search and recommendation
 
 •	Designed and built a full-stack web application for users to search twitch resources and get recommendations
