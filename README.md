@@ -1,4 +1,3 @@
-
 # Streaming+
 Twitch search and recommendation
 
