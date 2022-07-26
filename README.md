@@ -1,5 +1,3 @@
-# SocialNetworkDataAnalyzer
-make friend suggestions based on user’s existing connections in social network, and find a dominating set within a group of users
 # Streaming+
 Twitch search and recommendation
 * Designed and built a full-stack web application for users to search twitch resources and get recommendations
